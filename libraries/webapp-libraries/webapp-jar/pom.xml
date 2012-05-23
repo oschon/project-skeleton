@@ -4,12 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <parent>
     <artifactId>webapp-libraries</artifactId>
-    <groupId>com.vizrt.vosa</groupId>
+    <groupId>com.vizrt.vosa.project-skeleton</groupId>
     <version>trunk-SNAPSHOT</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
-
   <artifactId>webapp-jar</artifactId>
-
-
+  <name>[VOSA] Webapp Jar</name>
 </project>

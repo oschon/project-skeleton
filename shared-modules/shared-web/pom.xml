@@ -4,11 +4,17 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <parent>
     <artifactId>shared-modules</artifactId>
-    <groupId>com.vizrt.vosa</groupId>
+    <groupId>com.vizrt.vosa.project-skeleton</groupId>
     <version>trunk-SNAPSHOT</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <artifactId>shared-web</artifactId>
   <packaging>war</packaging>
   <name>[VOSA] Shared Web</name>
+  <dependencies>
+    <dependency>
+      <groupId>com.vizrt.vosa.project-skeleton</groupId>
+      <artifactId>webapp-jar</artifactId>
+    </dependency>
+  </dependencies>
 </project>

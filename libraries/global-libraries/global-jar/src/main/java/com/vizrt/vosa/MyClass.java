@@ -1,1 +1,1 @@
-package com.vizrt.vosa;
+package com.vizrt.vosa.project-skeleton;
