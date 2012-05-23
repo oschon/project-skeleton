@@ -15,6 +15,7 @@
     <dependency>
       <groupId>com.vizrt.vosa.project-skeleton</groupId>
       <artifactId>webapp-jar</artifactId>
+      <version>${project.parent.version}</version>
     </dependency>
   </dependencies>
 </project>
